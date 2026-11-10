@@ -1,9 +1,9 @@
 # TUTO — Enregistrement d'appels sur POCO M4 Pro
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00d4ff?style=plastic&logo=githubpages&logoColor=white)](https://septieme7.github.io/tuto-appels-poco-m4-pro/)
-[![Repository](https://img.shields.io/badge/Repository-tuto--appels--poco--m4--pro-0070d1?style=plastic&logo=github&logoColor=white)](https://github.com/Septieme7/tuto-appels-poco-m4-pro)
-[![Langue](https://img.shields.io/badge/Langue-FR%20%2F%20EN-6a5cff?style=plastic)](https://septieme7.github.io/tuto-appels-poco-m4-pro/)
-[![License](https://img.shields.io/badge/License-MIT-00c07a?style=plastic&logo=opensourceinitiative&logoColor=white)](https://github.com/Septieme7/tuto-appels-poco-m4-pro)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00d4ff?style=plastic&logo=githubpages&logoColor=white)](https://septieme7.github.io/Shizuku-Rec-Call/)
+[![Repository](https://img.shields.io/badge/Repository-Shizuku--Rec--Call-0070d1?style=plastic&logo=github&logoColor=white)](https://github.com/Septieme7/Shizuku-Rec-Call)
+[![Langue](https://img.shields.io/badge/Langue-FR%20%2F%20EN-6a5cff?style=plastic)](https://septieme7.github.io/Shizuku-Rec-Call/)
+[![License](https://img.shields.io/badge/License-MIT-00c07a?style=plastic&logo=opensourceinitiative&logoColor=white)](https://github.com/Septieme7/Shizuku-Rec-Call)
 
 ## Pourquoi ce projet
 
@@ -26,9 +26,9 @@ Toute personne qui possède un POCO M4 Pro (ou un appareil sous MIUI / HyperOS) 
 
 ## Accès direct
 
-Le guide est publié ici : **[https://septieme7.github.io/tuto-appels-poco-m4-pro/](https://septieme7.github.io/tuto-appels-poco-m4-pro/)**
+Le guide est publié ici : **[https://septieme7.github.io/Shizuku-Rec-Call/](https://septieme7.github.io/Shizuku-Rec-Call/)**
 
-Le code source est disponible ici : **[https://github.com/Septieme7/tuto-appels-poco-m4-pro](https://github.com/Septieme7/tuto-appels-poco-m4-pro)**
+Le code source est disponible ici : **[https://github.com/Septieme7/Shizuku-Rec-Call](https://github.com/Septieme7/Shizuku-Rec-Call)**
 
 ---
 
